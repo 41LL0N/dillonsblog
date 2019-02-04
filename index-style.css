@@ -1,0 +1,17 @@
+header {
+background-color: purple;
+font-size: 45px;
+font-family: Arial, Helvectiva, sans-serif;
+color: white;
+text-align: center;
+padding: 5%;
+}
+body {
+background-color: black;
+}
+article {
+color: black;
+font-family: Arial, Helvectiva, sans-serif;
+background-color: lightgray;
+padding: 5%;
+}
